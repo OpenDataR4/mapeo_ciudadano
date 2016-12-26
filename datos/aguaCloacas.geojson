@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fecha_creacion": "25/12/2016",
+        "foto": "link_foto",
+        "nombre": "bache de mierda",
+        "descripcion": "Maximo 140 caracteres",
+        "barrio": "centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.34811472892761,
+          -33.12245693449313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fecha_creacion": "25/12/2016",
+        "foto": "link_foto",
+        "nombre": "bache de mierda",
+        "descripcion": "Maximo 140 caracteres",
+        "barrio": "centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3516981601715,
+          -33.123930535871416
+        ]
+      }
+    }
+  ]
+}
